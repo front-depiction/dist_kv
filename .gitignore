@@ -1,0 +1,16 @@
+# Elixir/Erlang build artifacts
+/_build/
+/deps/
+erl_crash.dump
+*.ez
+*.log
+
+# Editor/IDE
+/.elixir_ls/
+/.vscode/
+/.idea/
+*~
+.DS_Store
+
+# Misc
+/tmp/
